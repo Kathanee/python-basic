@@ -1,0 +1,6 @@
+print("enter 5 nos to find out sum and average")
+var1=int(input("enter your 1st no"))
+var2=int(input("enter your 2nd no"))
+var3=int(input("enter your 3rd no"))
+var4=int(input("enter your 4th no"))
+var5=int(input("enter your 5th no"))
